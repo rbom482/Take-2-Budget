@@ -32,6 +32,9 @@ const App = () => {
 
                         {
                             /* Add ExpenseTotal component here */
+                            <div className='col-sm'>
+                                <ExpenseTotal />
+                            </div>
                         }        
                        
                         {
